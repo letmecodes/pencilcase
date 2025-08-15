@@ -201,13 +201,13 @@ const songs = [
     title: "Huling Halik",
     name: "Pencil Case",
     source:
-      "../music_list/Pencil Case - Huling Halik.mp3",
+      "https://github.com/letmecodes/pencilcase/raw/589e61fc3d55233dd7eb78c21fa22c9059065752/wwwroot/music_list/Pencil%20Case%20-%20Huling%20Halik.mp3",
   },
   {
     title: "Charot",
     name: "Pencil Case",
     source:
-      "../music_list/Pencil Case - Charot.mp3",
+      "https://github.com/letmecodes/pencilcase/raw/589e61fc3d55233dd7eb78c21fa22c9059065752/wwwroot/music_list/Pencil%20Case%20-%20Charot.mp3",
   },
   // {
   //   title: "Seni Dert Etmeler",

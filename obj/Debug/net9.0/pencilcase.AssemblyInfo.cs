@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pencilcase")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09119bb0621c76eca11cc327987efe567ad9b16c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+589e61fc3d55233dd7eb78c21fa22c9059065752")]
 [assembly: System.Reflection.AssemblyProductAttribute("pencilcase")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pencilcase")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

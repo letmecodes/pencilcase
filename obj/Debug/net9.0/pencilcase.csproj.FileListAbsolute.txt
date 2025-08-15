@@ -108,5 +108,5 @@ C:\Users\lignacio\Documents\GitHub\pencilcase\obj\Debug\net9.0\pencilcase.pdb
 C:\Users\lignacio\Documents\GitHub\pencilcase\obj\Debug\net9.0\pencilcase.genruntimeconfig.cache
 C:\Users\lignacio\Documents\GitHub\pencilcase\obj\Debug\net9.0\ref\pencilcase.dll
 C:\Users\lignacio\Documents\GitHub\pencilcase\obj\Debug\net9.0\compressed\1ptnpjygal-tk9p3b4bdz.gz
-C:\Users\lignacio\Documents\GitHub\pencilcase\obj\Debug\net9.0\compressed\ldevz2t8hx-wz6e6bk16f.gz
-C:\Users\lignacio\Documents\GitHub\pencilcase\obj\Debug\net9.0\compressed\kof26huza3-n7tturwi0j.gz
+C:\Users\lignacio\Documents\GitHub\pencilcase\obj\Debug\net9.0\compressed\ldevz2t8hx-8qrlat542n.gz
+C:\Users\lignacio\Documents\GitHub\pencilcase\obj\Debug\net9.0\compressed\kof26huza3-x24lqh9iyr.gz

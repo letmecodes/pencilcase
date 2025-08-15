@@ -1,0 +1,7 @@
+C:\Users\lignacio\Documents\Deployed-PencilCase\pencilcase.exe
+C:\Users\lignacio\Documents\Deployed-PencilCase\appsettings.Development.json
+C:\Users\lignacio\Documents\Deployed-PencilCase\appsettings.json
+C:\Users\lignacio\Documents\Deployed-PencilCase\pencilcase.dll
+C:\Users\lignacio\Documents\Deployed-PencilCase\pencilcase.deps.json
+C:\Users\lignacio\Documents\Deployed-PencilCase\pencilcase.runtimeconfig.json
+C:\Users\lignacio\Documents\Deployed-PencilCase\pencilcase.pdb
